@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Ashika!
 👩🏻‍💻 Senior Data Engineer learning new technologies by building projects and online courses. Solving data problems through GenAI.<br/>
 👩🏻‍🎓 Graduated from Ontario Tech University, Canada with a Masters in IT Security and AI.<br/>
-🎨 Experimenting Content creation through an instagram channel [deluluGPT](https://www.instagram.com/delulu_gpt?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr) where I share my learnings.<br/>
 💭 Currently looking for a role in Data Engineering/Analytics/AI in the United States.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
@@ -12,7 +11,7 @@
 ## Data Engineering Projects
 * [Stock Market ETL](https://github.com/ashikamattu/Stock_Market_ETL) - Tech Stack - GCP: Dataflow, BigQuery, Cloud Run, Apache AirFlow.</br>
 This is a Stock market analysis project that fetches prices for each stock in VUG index from rapodapi.com and performs basic to advanced analytics with the data collected.
-* [Apple Sales Analysis](https://github.com/ashikamattu/Analyzing-Events-and-Devices) - Tech Stack - Databricks.</br>
+* [Apple Sales Analysis](https://github.com/ashikamattu/apple_data_analysis) - Tech Stack - Databricks.</br>
 This project uses Databricks to analyze customer behavior in purchasing Apple products.
 * [Events Analysis](https://github.com/ashikamattu/Analyzing-Events-and-Devices) - Tech Stack - PostgreSQL.</br>
 Analyzing network log data containing information about users, events, devices and hosts.
